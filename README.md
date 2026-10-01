@@ -2,6 +2,10 @@
 
 A local underwriting workbench backed by React, FastAPI, and the original ABG Python rating function. The case-study notebooks live in `notebooks/`, with their original rating code in `src/`. The explorer's interface is in `abg-explorer/` and its pricing API is in `backend/`. The original notebooks and handoff were read as project context and were not modified.
 
+## Slides presentation
+
+[View the Beta Pushers Rating Plan presentation (PDF)](docs/BetaPushersRatingPlan.pdf)
+
 ## Use it
 
 Double-click **Start-ABG.cmd** in this folder. It opens `http://127.0.0.1:8011/` in your browser. Keep the launcher window open while using the explorer; close it to stop the service. If the service is already running, the launcher reuses it.
