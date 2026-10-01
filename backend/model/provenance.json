@@ -1,0 +1,9 @@
+{
+  "source": "08_CombinedModels.ipynb, cell 2, saved HTML output",
+  "notebook_sha256": "e52c7ec0967f1539cc339d96eead03c27e2371356833c90ade42645421bee9b6",
+  "rating_source_sha256": "d20541ec7963c444b6e9ceec30c7ae3932ae5e213407e1f42fcc3fbf810f67c2",
+  "precision": "Coefficients displayed to six decimal places; original CSV precision unavailable.",
+  "severity_intercepts": "Already include sigma squared / 2; no additional correction applied.",
+  "status": "Recovered notebook snapshot; model-indicated estimates, not a balanced rating manual.",
+  "fixed_expense_source": "ABG_project_handoff.md section 6, rounded book loss + LAE means multiplied by 0.051."
+}

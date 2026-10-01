@@ -1,0 +1,3 @@
+# Preserve the exact bundled bytes used for model provenance and snapshot IDs.
+backend/model/src/rating.py -text
+backend/model/data/processed/*.csv -text whitespace=cr-at-eol

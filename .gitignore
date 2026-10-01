@@ -6,3 +6,14 @@ Claude outputs/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+# Pricing Explorer local dependencies and caches
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.tsbuildinfo
+.local/
+
+# Keep the recovered model snapshot required by the pricing service.
+!backend/model/data/processed/

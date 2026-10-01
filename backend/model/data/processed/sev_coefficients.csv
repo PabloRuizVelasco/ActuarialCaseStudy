@@ -1,0 +1,24 @@
+coverage,term,coef,pval,se,component
+Personal Property,Intercept,7.864391,0.000000e+00,0.083907,severity
+Personal Property,greek = Non-greek,-0.671855,4.686525e-40,0.050717,severity
+Personal Property,off_campus = On campus,-0.434538,3.907763e-12,0.062609,severity
+Personal Property,sprinklered = True,-0.378787,1.453701e-12,0.053510,severity
+Personal Property,study = Humanities,-0.094329,1.674922e-01,0.068339,severity
+Personal Property,study = Other,-0.082651,2.162512e-01,0.066839,severity
+Personal Property,study = Science,0.002393,9.714633e-01,0.066889,severity
+Personal Property,distance_to_campus,0.002696,7.770146e-01,0.009519,severity
+Additional Living Expense,Intercept,9.157658,0.000000e+00,0.090673,severity
+Additional Living Expense,greek = Non-greek,-0.757653,1.431214e-27,0.069635,severity
+Additional Living Expense,off_campus = On campus,-0.467139,4.003330e-12,0.067340,severity
+Additional Living Expense,class_year = Grad student,0.493233,1.379873e-04,0.129398,severity
+Additional Living Expense,class_year = Junior,0.194676,4.396202e-02,0.096639,severity
+Additional Living Expense,class_year = Senior,0.166616,7.652657e-02,0.094069,severity
+Additional Living Expense,class_year = Sophomore,0.034737,7.220388e-01,0.097647,severity
+Guest Medical,Intercept,9.989468,0.000000e+00,0.186522,severity
+Guest Medical,greek = Non-greek,-0.650978,5.862765e-05,0.162005,severity
+Guest Medical,class_year = Grad student,0.652051,1.423738e-02,0.266011,severity
+Guest Medical,class_year = Junior,0.357640,9.072673e-02,0.211424,severity
+Guest Medical,class_year = Senior,0.186624,4.021889e-01,0.222776,severity
+Guest Medical,class_year = Sophomore,0.190287,3.943636e-01,0.223412,severity
+Liability,Intercept,8.920814,0.000000e+00,0.146593,severity
+Liability,distance_to_campus,0.029610,3.330387e-01,0.030588,severity

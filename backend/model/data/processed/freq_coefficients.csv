@@ -1,0 +1,20 @@
+coverage,term,coef,pval,se,component
+Personal Property,Intercept,-1.642661,5.366536e-38,0.127472,frequency
+Personal Property,greek = Non-greek,-0.796369,1.710577e-26,0.074764,frequency
+Personal Property,sprinklered = True,0.037408,6.345637e-01,0.078701,frequency
+Personal Property,gpa,-0.051545,2.190878e-01,0.041942,frequency
+Additional Living Expense,Intercept,-2.304637,1.937680e-99,0.108880,frequency
+Additional Living Expense,greek = Non-greek,-0.751963,1.860888e-13,0.102191,frequency
+Additional Living Expense,sprinklered = True,-0.103147,3.207081e-01,0.103873,frequency
+Guest Medical,Intercept,-3.184421,6.085054e-32,0.270725,frequency
+Guest Medical,greek = Non-greek,-0.592791,1.930457e-04,0.159013,frequency
+Guest Medical,study = Humanities,0.030186,8.819078e-01,0.203205,frequency
+Guest Medical,study = Other,-0.040164,8.465265e-01,0.207512,frequency
+Guest Medical,study = Science,-0.051290,8.048677e-01,0.207609,frequency
+Guest Medical,gpa,-0.047760,5.786878e-01,0.086007,frequency
+Liability,Intercept,-3.523225,5.472911e-14,0.468507,frequency
+Liability,greek = Non-greek,-0.981078,9.185005e-05,0.250840,frequency
+Liability,sprinklered = True,-0.169040,5.162363e-01,0.260399,frequency
+Liability,off_campus = On campus,-0.364988,2.376130e-01,0.309057,frequency
+Liability,distance_to_campus,0.069604,5.499315e-02,0.036272,frequency
+Liability,gpa,-0.161461,2.582037e-01,0.142804,frequency
